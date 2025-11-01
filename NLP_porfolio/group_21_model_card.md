@@ -22,8 +22,8 @@
 **Purpose**
 *Why was this model developed?*
 
-- This model was developed to take in cleaned transcript data from a raw video and classify it accurately as one of the [[Ekman's six emotions](https://www.paulekman.com/universal-emotions/#:~:text=TO%20PAUL%20EKMAN%3F-,Dr.,seventh%20emotion%2C%20which%20is%20contempt.)] or neutral. 
-- This model was made to be able to preform well on a test set from the [[Content Intelligence Agency Pipeline](https://www.contentintelligence.nl/)]. This data was extracted from [[MasterChef USA (S12): Full Ep 1 | A Second Chance](https://www.youtube.com/watch?v=hUDAKXdm2BM)].
+- This model was developed to take in cleaned transcript data from a raw video and classify it accurately as one of the [Ekman's six emotions](https://www.paulekman.com/universal-emotions/#:~:text=TO%20PAUL%20EKMAN%3F-,Dr.,seventh%20emotion%2C%20which%20is%20contempt.) or neutral. 
+- This model was made to be able to preform well on a test set from the [Content Intelligence Agency Pipeline](https://www.contentintelligence.nl/). This data was extracted from [MasterChef USA (S12): Full Ep 1 | A Second Chance](https://www.youtube.com/watch?v=hUDAKXdm2BM).
 - The goal of this model was to replace LLMs: reduce cost, reduce prediction time, and elimination of reliance on other companies. We did this through the implementation of a robust emotion classification pipeline. 
 - This pipeline was built to processes video transcripts with high accuracy, classify emotions using multiple ML approaches, improve generalization to various content types, and provide confidence metrics for Content Intelligence Agency decision-making. 
 
